@@ -71,8 +71,8 @@ const config: Config = {
     navbar: {
       title: 'AI Automation for Jira',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'AI Automation Logo',
+        src: 'img/logo.png',
       },
       items: [
         {
