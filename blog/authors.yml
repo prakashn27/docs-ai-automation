@@ -1,0 +1,23 @@
+prakash:
+  name: Prakas
+  title: Founder of AI Automation for Jira
+  url: https://github.com/prakashn27
+  image_url: https://github.com/prakashn27.png
+  page: true
+  socials:
+    x: 123x_dev
+    github: prakashn27
+
+subi:
+  name: Subi
+  title: Customer Success at AI Automation for Jira
+  url: https://123x.dev
+  # image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: "/all-subi-articles"
+  # socials:
+  #   x: sebastienlorber
+  #   linkedin: sebastienlorber
+  #   github: slorber
+  #   newsletter: https://thisweekinreact.com
