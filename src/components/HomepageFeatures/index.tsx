@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/save-time-icon.svg').default,
     description: (
       <>
-        the time it takes to type out what you want your automation, is the time it takes to create it. 
+        Type it out, and your automation is ready.
       </>
     ),
   },
