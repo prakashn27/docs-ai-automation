@@ -36,9 +36,16 @@ export default function Home(): ReactNode {
       title={`${siteConfig.title}`}
       description="Create custom automation in just 2 minutes using AI with minimal effort.">
       <HomepageHeader />
+      <div style={{
+        display: 'grid',
+        placeItems: 'center',
+        margin: '20px',
+        // height: '100vh'
+      }}><iframe width="560" height="315" src="https://www.youtube.com/embed/WjZ3GN25mBU?si=PcINumkzOJ8G4gnW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
       <main>
         <HomepageFeatures />
       </main>
+
     </Layout>
   );
 }
