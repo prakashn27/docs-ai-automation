@@ -141,7 +141,7 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} 123x, Inc. Made with ♥️ from 🍁.`,
+      copyright: `Made with ♥️ from 🍁`,
     },
     prism: {
       theme: prismThemes.github,
