@@ -11,8 +11,8 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Create Custom Automations',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Create Custom Automations using AI',
+    Svg: require('@site/static/img/flexible-icon.svg').default,
     description: (
       <>
         Flexibility at its core. Our AI creates automation based on your need. Just type and let AI handle the creating of automation.
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Time Saving',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/save-time-icon.svg').default,
     description: (
       <>
         the time it takes to type out what you want your automation, is the time it takes to create it. 
@@ -29,11 +29,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Minimal effort',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Engineered for Security',
+    Svg: require('@site/static/img/secure-vector-icon-2.svg').default,
     description: (
       <>
-        No more changing UI or having multiple apps to create automations. One tool for all your automation needs with almost no effort on your end. 
+        Runs on Atlassian, Built on Forge. Your data never leaves the atalssian server.
       </>
     ),
   },
