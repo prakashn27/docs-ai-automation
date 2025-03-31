@@ -62,7 +62,7 @@ const config: Config = {
           customCss: './src/css/custom.css',
         },
         googleTagManager: {
-          containerId: 'GTM-WX4NQXQL',
+          containerId: 'G-7LGY6ESECX',
         },
       } satisfies Preset.Options,
     ],
