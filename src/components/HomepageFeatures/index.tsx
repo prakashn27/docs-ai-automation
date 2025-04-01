@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/flexible-icon.svg').default,
     description: (
       <>
-        Flexibility at its core. Our AI creates automation based on your need. Just type and let AI handle the creating of automation.
+        Flexibility at its core. Our AI creates automation based on your need.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/secure-vector-icon-2.svg').default,
     description: (
       <>
-        Runs on Atlassian, Built on Forge. Your data never leaves the atalssian server.
+        Runs on Atlassian, Built on Forge. Your data never leaves the Atlassian server.
       </>
     ),
   },
